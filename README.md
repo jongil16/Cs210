@@ -1,2 +1,3 @@
 # Cs210
-Lab
+Lab on git
+I am making a hello world program. 
